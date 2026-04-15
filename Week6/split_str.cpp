@@ -47,7 +47,7 @@ vector<string> split(const string& s) {
 		// 공백이 아닌 문자들을 찾았을 때
 		if (i != j) {
 			// i에서부터 j-1개의 문자들을 s에 복사
-			ret.push_back(s.substr(i, j));
+			ret.push_back(s.substr(i, j-i));
 			i = j; // j인덱스가 i인덱스로 이동
 		}
 	}
