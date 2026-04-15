@@ -80,7 +80,7 @@ vector<string> lib_split(const string& s) {
 	return ret;
 
 }
-
+/*
 int main(void) {
 	string s;
 
@@ -101,9 +101,5 @@ int main(void) {
 			cout << v2[i] << endl;
 		}
 	}
-
-
-
-
-
-}
+	}
+*/
