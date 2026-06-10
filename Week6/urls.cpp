@@ -2,7 +2,8 @@
 #include <cctype>		// isalnum() - 문자나 숫자?
 #include <iostream>
 #include <string>
-#include <vector>
+// #include <vector>
+#include "C:\Users\com316\Desktop\민규\11-abstract-data-types-2026-mingyu1212"
 
 using namespace std;
 
